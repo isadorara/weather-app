@@ -1,4 +1,4 @@
-const apiKey = "REMOVED";
+const apiKey = ""; // INSERT API KEY HERE
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&lang=pt&q=";
 
 const searchBox = document.querySelector(".search input");
